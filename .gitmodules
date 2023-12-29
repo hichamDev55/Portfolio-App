@@ -1,0 +1,6 @@
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/hichamDev55/portfolio
+[submodule "portfolio-backend"]
+	path = portfolio-backend
+	url = https://github.com/hichamDev55/portfolio-backend
